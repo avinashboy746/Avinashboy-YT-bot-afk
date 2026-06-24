@@ -1,0 +1,12 @@
+{
+  "name": "avinash-afk-bots",
+  "version": "1.0.0",
+  "description": "Minecraft AFK Bots",
+  "main": "afk-bots.js",
+  "scripts": {
+    "start": "node afk-bots.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}
